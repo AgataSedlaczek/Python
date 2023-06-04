@@ -29,6 +29,22 @@ y=1986
 print("Cześć", x, "rok twojego urodzenia to", y)
 
 
+x = "Marek"
+y = "Misia"
+
+
+if x == "Agata":
+  print ("Nazywasz się", x)
+
+
+elif y == "Agata":
+  print ("Nazywasz się", y)
+
+
+else:
+  print ("żadna zmienna nie przechowuje twojego imienia")
+
+
 
 
 
